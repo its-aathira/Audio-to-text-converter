@@ -1,0 +1,40 @@
+SPEAKER_00 [0:00:01 --> 0:00:08.200000]: You will hear a telephone conversation between a customer and an agent at a company which ships large boxes overseas.
+SPEAKER_01 [0:00:12 --> 0:00:15.800000]: Good morning, Packham shipping agents.
+SPEAKER_02 [0:00:16.200000 --> 0:00:23.800000]: Can I help you? Oh yes, I'm ringing to make inquiries about sending a large box, a container back home to Kenya from the UK.
+SPEAKER_01 [0:00:24.100000 --> 0:00:28.900000]: Yes of course.
+SPEAKER_02 [0:00:29.200000 --> 0:00:31.100000]: Would you like me to try and find some quotations for you? Yes, that'd be great.
+SPEAKER_01 [0:00:31.700000 --> 0:00:35.400000]: Thank you.
+SPEAKER_02 [0:00:35.800000 --> 0:00:36]: Well, first of all, I need a few details from you.
+SPEAKER_01 [0:00:36.500000 --> 0:00:37.700000]: Fine.
+SPEAKER_02 [0:00:38.100000 --> 0:00:39.600000]: Can I take your name? It's Jacob M.
+SPEAKER_01 [0:00:40.200000 --> 0:00:42.200000]: Carey.
+SPEAKER_02 [0:00:42.400000 --> 0:00:46]: Can you spell your surname please? Yes, it's M-K-E-R-E.
+SPEAKER_01 [0:00:46.600000 --> 0:00:48.600000]: Is that M for mother? Yes.
+SPEAKER_02 [0:00:48.800000 --> 0:00:49.500000]: Thank you.
+SPEAKER_01 [0:00:49.500000 --> 0:00:54.600000]: And you say that you will be sending the box to Kenya.
+SPEAKER_02 [0:00:55 --> 0:00:55.600000]: That's right.
+SPEAKER_01 [0:00:56.500000 --> 0:00:59.500000]: And where would you like the box picked up from? From college, if possible.
+SPEAKER_02 [0:01:00 --> 0:01:01.700000]: Yes of course.
+SPEAKER_01 [0:01:02.200000 --> 0:01:05.700000]: I'll take down the address now.
+SPEAKER_02 [0:01:06.200000 --> 0:01:08]: It's Westall College.
+SPEAKER_01 [0:01:08.300000 --> 0:01:12.900000]: Is that W-E-S-T-A-D-L? Yes, college.
+SPEAKER_02 [0:01:13.200000 --> 0:01:14.500000]: Westall College.
+SPEAKER_01 [0:01:15.200000 --> 0:01:18.700000]: And where's that? It's downlands road in Bristol.
+SPEAKER_02 [0:01:18.900000 --> 0:01:21.700000]: Oh yes, I know it.
+SPEAKER_01 [0:01:22 --> 0:01:25.900000]: And the postcode? It's BS-8-9-P-U.
+SPEAKER_02 [0:01:26.100000 --> 0:01:29.300000]: Right.
+SPEAKER_01 [0:01:29.800000 --> 0:01:30.500000]: And I need to know the size.
+SPEAKER_01 [0:01:31.600000 --> 0:01:33.900000]: Yes, I've measured it carefully and it's 1.5 meters long.
+SPEAKER_02 [0:01:34.300000 --> 0:01:39]: Right.
+SPEAKER_01 [0:01:39.600000 --> 0:01:40.500000]: 0.75 meters wide.
+SPEAKER_02 [0:01:40.600000 --> 0:01:43.200000]: Okay.
+SPEAKER_01 [0:01:43.700000 --> 0:01:44.900000]: And it's 0.5 meters high or deep.
+SPEAKER_02 [0:01:45.100000 --> 0:01:49]: Great.
+SPEAKER_01 [0:01:49.600000 --> 0:01:50.100000]: So I'll calculate the volume in a moment and get some quotes for that.
+SPEAKER_01 [0:01:50.700000 --> 0:02:01.100000]: But first, can you tell me very generally what will be in the box? Yes, there's mostly clothes.
+SPEAKER_02 [0:02:01.400000 --> 0:02:03.600000]: Okay.
+SPEAKER_02 [0:02:05.300000 --> 0:02:07]: And there's some books.
+SPEAKER_01 [0:02:07.900000 --> 0:02:11.300000]: Okay, good.
+SPEAKER_02 [0:02:11.600000 --> 0:02:13.800000]: Anything else? Yes, there's also some toys.
+SPEAKER_01 [0:02:14.700000 --> 0:02:19.200000]: Okay.
+SPEAKER_02 [0:02:19.900000 --> 0:02:33]: And what is the total value, do you think, of the contents? Well, the main costs are the clothes and the books.

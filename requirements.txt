@@ -1,0 +1,5 @@
+soundfile 
+pydub 
+numpy 
+matplotlib
+simpleaudio
